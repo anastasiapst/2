@@ -9,12 +9,12 @@
 </div>
 
 <div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
-  VIEW PROJECT →
+  VIEW PROJECT→
 </div>
 
 <style>
 p {
-font-family: 'Inter', sans-serif; font-size: 12px; line-height: 13px;"
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;"
 }
 </style>
 
