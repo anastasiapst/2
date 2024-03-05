@@ -5,7 +5,7 @@
 </div>
 
 <div style="margin-bottom: 20px; width: 250px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
-  Brand Identity for a niche concept store with a curated selection of contemporary design objects.
+  Brand Identity for a niche concept store with a curated selection of contemporary design objects
 </div>
 
 <div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
