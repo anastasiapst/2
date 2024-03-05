@@ -2,7 +2,7 @@
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   𒊹 IDENTITY FOR THE FASHION CONCEPT STORE
-</div>
+</div> 
 
 <div style="margin-bottom: 20px; width: 250px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   Brand Identity for a niche concept store with a curated selection of contemporary design objects
