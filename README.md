@@ -1,14 +1,14 @@
 ![Картинка](6b8b5e191341535.65ca263de9fa9.png)
 
-<div style="margin-top: 3px; margin-bottom: 3px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
+<div style="margin-top: 20px; margin-bottom: 3px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   ● IDENTITY FOR THE FASHION CONCEPT STORE
 </div>
 
-<div style="margin-bottom: 3px; width: 250px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
+<div style="margin-bottom: 20px; width: 250px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   Brand Identity for a niche concept store with a curated selection of contemporary design objects.
 </div>
 
-<div style="margin-bottom: 7px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
+<div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   VIEW PROJECT
 </div>
 
