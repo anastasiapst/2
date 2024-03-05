@@ -1,4 +1,4 @@
-![Картинка](image2.png)
+![Картинка](image3.png)
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 13px;">
   𒊹 IDENTITY FOR THE FASHION CONCEPT STORE
