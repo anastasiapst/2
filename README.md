@@ -1,6 +1,5 @@
 ![Картинка](image3.png)
-<div style="margin-top: 0px; margin-bottom: 5px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 11px;">
-𒊹 IDENTITY FOR THE FASHION CONCEPT STORE
+<div style="margin-top: 0px; margin-bottom: 5px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 11px;"> 𒊹 IDENTITY FOR THE FASHION CONCEPT STORE
 </div>  
 
 <div style="margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 11px;">
