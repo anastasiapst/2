@@ -1,7 +1,5 @@
 ![Картинка](image3.png) 
 𒊹 IDENTITY FOR THE FASHION CONCEPT STORE. Brand Identity for a niche concept store with a curated selection of contemporary design objects.
-</div>  
-
 <div style="margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 11px;">
   VIEW PROJECT→
 </div>
