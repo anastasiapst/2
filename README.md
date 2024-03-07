@@ -1,12 +1,9 @@
 ![Картинка](image3.png) 
-
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
   IDENTITY FOR THE FASHION CONCEPT STORE
-</div> 
-<div style="margin-bottom: 20px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
+<div style="margin-top: 0px, margin-bottom: 5px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
   VIEW PROJECT→
 </div>
-
 ![Картинка2](980497193048809.65e5c726574fc.png)
 
 <div style="margin-top: 2px; margin-bottom: 10px; font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;">
