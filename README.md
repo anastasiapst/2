@@ -19,9 +19,3 @@ p {
 font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;"
 }
 </style>
-
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" rel="stylesheet">
-<head>
