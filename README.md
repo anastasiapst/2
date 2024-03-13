@@ -1,5 +1,3 @@
-<div style="overflow: hidden;">
-    
 ![Картинка](image3.png)
 ● IDENTITY FOR THE FASHION CONCEPT STORE
 <br>VIEW PROJECT →
@@ -24,5 +22,3 @@ p {
     font-weight: 520;
 }
 </style>
-
-</div>
