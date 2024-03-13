@@ -16,6 +16,6 @@
 
 <style>
 p {
-font-family: 'Inter', sans-serif; font-size: 11px; line-height: 14px;"
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 20px; font-weight: 520;"
 }
 </style>
