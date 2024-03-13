@@ -16,16 +16,14 @@
 
 <style>
 p {
-font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 520;"
-}
-</style>
-
-<style>
-        /* Скрыть скроллбары */
+            /* Скрыть скроллбары */
         ::-webkit-scrollbar {
             display: none;
         }
         body {
             scrollbar-width: none; /* Firefox */
         }
-    </style>
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 520;"
+}
+</style>
+
