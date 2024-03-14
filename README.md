@@ -15,6 +15,7 @@
 <br>View project →
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@560&display=swap')
 p {
 font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 560;"
 }
