@@ -16,11 +16,12 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@440&display=swap');
-
-  body {
-    font-family: 'Inter', sans-serif;
-    font-size: 11px;
-    line-height: 18px;
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  line-height: 18px;
   }
 </style>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@560&display=swap" rel="stylesheet">
