@@ -10,6 +10,10 @@
 ● IDENTITY FOR THE FASHION CONCEPT STORE
 <br>View project →
 
+![Картинка](commdes.png)
+● DESIGN OF VARIOUS COMMUNICATIONS
+<br>View project →
+
 ![Картинка3](e64ae2189707623.65afaa5d98e1b.png)
 ● IDENTITY FOR THE CONCEPT STORE THIS&THAT
 <br>View project →
