@@ -15,11 +15,9 @@
 <br>View project →
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@440&display=swap');
-  font-family: 'Inter', sans-serif;
-  font-size: 11px;
-  line-height: 18px;
-  }
+p {
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 560;"
+}
 </style>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
