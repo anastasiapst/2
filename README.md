@@ -2,7 +2,7 @@
 ● IDENTITY FOR A RETRO FURNITURE STORE RETIMELESS
 <br>View project →
 
-![Картинка2](980497193048809.65e5c726574fc.png)
+![Картинка2](bbident1)
 ● IDENTITY FOR THE FASHION BRAND «BARELYBEARABLE»
 <br>View project →
 
