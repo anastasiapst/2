@@ -16,12 +16,6 @@
 
 <style>
 p {
-font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 900;"
+font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 560;"
 }
 </style>
-
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap" rel="stylesheet">
-<head>
